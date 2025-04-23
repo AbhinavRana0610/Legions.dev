@@ -1,0 +1,838 @@
+@media (min-width: 390px) and (max-width: 568px) {
+  /* * {
+    outline: 2px solid red;
+  } */
+
+  .legion {
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 35%;
+  }
+  .animated-gradient-text {
+    font-size: 5rem;
+    margin-top: 28rem;
+    padding: 0 3rem;
+    text-align: center;
+  }
+  .banner1-about {
+    padding: 2rem 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  .banner1-inner {
+    display: flex;
+    flex-direction: column;
+  }
+  .btn2 {
+    margin-top: 0rem;
+    padding: 0.6rem 6rem;
+  }
+  .btn3 {
+    margin-top: -1rem;
+    padding: 0.6rem 6rem;
+  }
+  .banner1-text {
+    margin-top: 4rem;
+    text-align: center;
+  }
+  .ban2-text {
+    padding-top: 9rem;
+  }
+  .ban2-heading {
+    margin-top: 1rem;
+    position: static;
+  }
+  .ban2-heading2 {
+    font-size: 2rem;
+  }
+  .next {
+    height: 8rem;
+    width: 7rem;
+    margin-left: 0.6rem;
+    font-size: 0.8rem;
+  }
+
+  .react {
+    margin-left: 1rem;
+  }
+  .typescript {
+    margin-left: 1rem;
+  }
+  .logos {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    justify-content: center;
+  }
+  .javascript {
+    margin-left: 0.6rem;
+  }
+  .HTML {
+    margin-left: 1rem;
+  }
+  .tailwind {
+    margin-left: 1rem;
+  }
+  .css {
+    margin-left: 0.6rem;
+  }
+  .node {
+    margin-left: 1rem;
+  }
+  .prisma {
+    margin-left: 1rem;
+  }
+  .mongo {
+    margin-left: 0.6rem;
+  }
+  .logos2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .supabase {
+    margin-left: 1rem;
+  }
+  .postgre {
+    margin-left: 1rem;
+  }
+  .hosting {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .github {
+    margin-left: 0.6rem;
+  }
+  .AWS {
+    margin-left: 1rem;
+  }
+  .Netlify {
+    margin-left: 1rem;
+  }
+  .Vercel {
+    margin-left: 0.6rem;
+  }
+  .Ubuntu {
+    margin-left: 1rem;
+  }
+  .Firebase {
+    margin-left: 1rem;
+  }
+  .Tools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .Visual {
+    margin-left: 0.6rem;
+  }
+  .Postman {
+    margin-left: 1rem;
+  }
+  .Framer {
+    margin-left: 1rem;
+  }
+  .Figma {
+    margin-left: 5rem;
+  }
+  .Photoshop {
+    margin-left: 1rem;
+  }
+  .Ban3-text {
+    position: static;
+    margin-left: 38%;
+    white-space: nowrap;
+  }
+  .Ban3-heading {
+    font-size: 2rem;
+  }
+  .Project-outer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .Project1 {
+    margin-left: 3rem;
+  }
+  .Joiner {
+    margin-left: 3rem;
+  }
+  .pulse {
+    margin-left: 3rem;
+  }
+  .Unbanned {
+    margin-left: 3rem;
+  }
+  .Lotus {
+    margin-left: 3rem;
+  }
+  .talent {
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+  }
+  .Jokal {
+    margin-left: 3rem;
+  }
+
+  .jokal-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ban4-text {
+    position: static;
+    margin-left: 35%;
+  }
+  .ban4-heading {
+    font-size: 2rem;
+  }
+  .text2 {
+    font-size: 0.8rem;
+  }
+  .ban5 {
+    gap: 22%;
+  }
+  .email-btn {
+    padding: 0.3rem 0.5rem;
+    font-family: Outfit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  .right-arrow {
+    display: none;
+  }
+  .left-arrow {
+    display: none;
+  }
+  .telegram-btn {
+    margin-top: 2rem;
+  }
+}
+
+@media (min-width: 569px) and (max-width: 768px) {
+  /* * {
+    outline: 2px solid red;
+  } */
+
+  .legion {
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 55%;
+  }
+  .animated-gradient-text {
+    font-size: 5rem;
+    margin-top: 28rem;
+    padding: 0 3rem;
+    text-align: center;
+  }
+  .banner1-about {
+    padding: 2rem 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  .banner1-inner {
+    display: flex;
+    flex-direction: column;
+  }
+  .btn2 {
+    margin-top: 0rem;
+    padding: 0.6rem 6rem;
+  }
+  .btn3 {
+    margin-top: -1rem;
+    padding: 0.6rem 6rem;
+  }
+  .banner1-text {
+    margin-top: 4rem;
+    text-align: center;
+    width: 34rem;
+  }
+  .ban2-text {
+    padding-top: 9rem;
+  }
+  .ban2-heading {
+    position: static;
+  }
+  .ban2-heading2 {
+    font-size: 2rem;
+  }
+  .next {
+    height: 8rem;
+    width: 7rem;
+    margin-left: 0.6rem;
+    font-size: 0.8rem;
+  }
+
+  .react {
+    margin-left: 1rem;
+  }
+  .typescript {
+    margin-left: 1rem;
+  }
+  .logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 5rem;
+  }
+  .javascript {
+    margin-left: 0.6rem;
+  }
+  .HTML {
+    margin-left: 1rem;
+  }
+  .tailwind {
+    margin-left: 1rem;
+  }
+  .css {
+    margin-left: 0.6rem;
+  }
+  .node {
+    margin-left: 1rem;
+  }
+  .prisma {
+    margin-left: 1rem;
+  }
+  .mongo {
+    margin-left: 0.6rem;
+  }
+  .logos2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .supabase {
+    margin-left: 1rem;
+  }
+  .postgre {
+    margin-left: 1rem;
+  }
+  .hosting {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .github {
+    margin-left: 0.6rem;
+  }
+  .AWS {
+    margin-left: 1rem;
+  }
+  .Netlify {
+    margin-left: 1rem;
+  }
+  .Vercel {
+    margin-left: 0.6rem;
+  }
+  .Ubuntu {
+    margin-left: 1rem;
+  }
+  .Firebase {
+    margin-left: 1rem;
+  }
+  .Tools {
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .Visual {
+    margin-left: 0.6rem;
+  }
+  .Postman {
+    margin-left: 1rem;
+  }
+  .Framer {
+    margin-left: 1rem;
+  }
+  .Figma {
+    margin-left: 1rem;
+  }
+  .Photoshop {
+    margin-left: 1rem;
+  }
+  .Ban3-text {
+    position: static;
+    margin-left: 42%;
+  }
+  .Ban3-heading {
+    font-size: 2rem;
+  }
+  .Project-outer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .Project1 {
+    margin-left: 3rem;
+  }
+  .Joiner {
+    margin-left: 3rem;
+  }
+  .pulse {
+    margin-left: 3rem;
+  }
+  .Unbanned {
+    margin-left: 3rem;
+  }
+  .Lotus {
+    margin-left: 3rem;
+  }
+  .talent {
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+  }
+  .Jokal {
+    margin-left: 3rem;
+  }
+
+  .jokal-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ban4-text {
+    position: static;
+    margin-left: 40%;
+  }
+  .ban4-heading {
+    font-size: 2rem;
+  }
+  .text2 {
+    font-size: 0.8rem;
+  }
+  .ban5 {
+    gap: 46%;
+  }
+  .email-btn {
+    padding: 0.3rem 0.5rem;
+    font-family: Outfit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  .right-arrow {
+    display: none;
+  }
+  .left-arrow {
+    display: none;
+  }
+  .telegram-btn {
+    margin-top: 2rem;
+  }
+  .circle {
+    margin-bottom: 2rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  /* * {
+    outline: 2px solid red;
+  } */
+
+  .nav-bar {
+    background-color: black;
+    width: 100%;
+    color: white;
+    display: flex;
+    height: 4rem;
+    align-items: center;
+    border-bottom: 0.1px solid rgb(44, 44, 44);
+  }
+
+  .legion {
+    font-size: 1.5rem;
+    margin-left: 0.5rem;
+    margin-right: 67%;
+  }
+  .animated-gradient-text {
+    font-size: 5rem;
+    margin-top: 28rem;
+    padding: 0 3rem;
+    text-align: center;
+  }
+  .banner1-about {
+    padding: 2rem 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  .banner1-inner {
+    display: flex;
+    flex-direction: column;
+  }
+  .btn2 {
+    margin-top: 0rem;
+    padding: 0.6rem 6rem;
+  }
+  .btn3 {
+    margin-top: -1rem;
+    padding: 0.6rem 6rem;
+  }
+  .banner1-text {
+    margin-top: 4rem;
+    text-align: center;
+  }
+  .ban2-text {
+    padding-top: 9rem;
+  }
+  .ban2-heading {
+    margin-top: 1rem;
+    position: static;
+  }
+  .ban2-heading2 {
+    font-size: 2rem;
+  }
+  .next {
+    height: 8rem;
+    width: 7rem;
+    margin-left: 0.6rem;
+    font-size: 0.8rem;
+  }
+
+  .react {
+    margin-left: 1rem;
+  }
+  .typescript {
+    margin-left: 1rem;
+  }
+  .logos {
+    display: flex;
+    flex-wrap: wrap;
+    /* align-items: center; */
+    justify-content: center;
+  }
+  .javascript {
+    margin-left: 0.6rem;
+  }
+  .HTML {
+    margin-left: 1rem;
+  }
+  .tailwind {
+    margin-left: 1rem;
+  }
+  .css {
+    margin-left: 0.6rem;
+  }
+  .node {
+    margin-left: 1rem;
+  }
+  .prisma {
+    margin-left: 1rem;
+  }
+  .mongo {
+    margin-left: 0.6rem;
+  }
+  .logos2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .supabase {
+    margin-left: 1rem;
+  }
+  .postgre {
+    margin-left: 1rem;
+  }
+  .hosting {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .github {
+    margin-left: 0.6rem;
+  }
+  .AWS {
+    margin-left: 1rem;
+  }
+  .Netlify {
+    margin-left: 1rem;
+  }
+  .Vercel {
+    margin-left: 0.6rem;
+  }
+  .Ubuntu {
+    margin-left: 1rem;
+  }
+  .Firebase {
+    margin-left: 1rem;
+  }
+  .Tools {
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .Visual {
+    margin-left: 0.6rem;
+  }
+  .Postman {
+    margin-left: 1rem;
+  }
+  .Framer {
+    margin-left: 1rem;
+  }
+  .Figma {
+    margin-left: 1rem;
+  }
+  .Photoshop {
+    margin-left: 1rem;
+  }
+  .Ban3-text {
+    position: static;
+    margin-left: 43%;
+  }
+  .Ban3-heading {
+    font-size: 2rem;
+  }
+  .Project-outer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: -1.5rem;
+  }
+
+  .Project1 {
+    margin-left: 3rem;
+  }
+  .Joiner {
+    margin-left: 3rem;
+  }
+  .pulse {
+    margin-left: 3rem;
+  }
+  .Unbanned {
+    margin-left: 3rem;
+  }
+  .Lotus {
+    margin-left: 3rem;
+  }
+  .talent {
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+  }
+  .Jokal {
+    margin-left: 3rem;
+  }
+
+  .jokal-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ban4-text {
+    position: static;
+    margin-left: 43%;
+  }
+  .ban4-heading {
+    font-size: 2rem;
+  }
+  .text2 {
+    font-size: 0.8rem;
+  }
+
+  .email-btn {
+    padding: 0.3rem 0.5rem;
+    font-family: Outfit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    margin-top: 1rem;
+  }
+  .right-arrow {
+    display: none;
+  }
+  .left-arrow {
+    display: none;
+  }
+  .telegram-btn {
+    margin-top: 2rem;
+  }
+  .ban5 {
+    gap: 60%;
+  }
+}
+
+@media (min-width: 1025px) and (max-width: 1260px) {
+  /* * {
+    outline: 2px solid red;
+  } */
+  .legion {
+    margin-right: 70%;
+  }
+
+  .animated-gradient-text {
+    font-size: 5rem;
+    margin-top: 28rem;
+    padding: 0 3rem;
+    text-align: center;
+  }
+  .ban5 {
+    gap: 65%;
+  }
+  .Project-outer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .Project1 {
+    margin-left: 0rem;
+  }
+  .Tools {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .ban2-text {
+    padding-top: 9rem;
+  }
+  .ban2-heading {
+    margin-top: 1rem;
+    position: static;
+  }
+  .ban2-heading2 {
+    font-size: 2rem;
+  }
+  .next {
+    height: 8rem;
+    width: 7rem;
+    margin-left: 0.6rem;
+    font-size: 0.8rem;
+  }
+
+  .react {
+    margin-left: 1rem;
+  }
+  .typescript {
+    margin-left: 1rem;
+  }
+  .logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .javascript {
+    margin-left: 0.6rem;
+  }
+  .HTML {
+    margin-left: 1rem;
+  }
+  .tailwind {
+    margin-left: 1rem;
+  }
+  .css {
+    margin-left: 0.6rem;
+  }
+  .node {
+    margin-left: 1rem;
+  }
+  .prisma {
+    margin-left: 1rem;
+  }
+  .mongo {
+    margin-left: 0.6rem;
+  }
+  .logos2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .supabase {
+    margin-left: 1rem;
+  }
+  .postgre {
+    margin-left: 1rem;
+  }
+  .hosting {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .github {
+    margin-left: 0.6rem;
+  }
+  .AWS {
+    margin-left: 1rem;
+  }
+  .Netlify {
+    margin-left: 1rem;
+  }
+  .Vercel {
+    margin-left: 0.6rem;
+  }
+  .Ubuntu {
+    margin-left: 1rem;
+  }
+  .Firebase {
+    margin-left: 1rem;
+  }
+  .Tools {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+  }
+  .Visual {
+    margin-left: 0.6rem;
+  }
+  .Postman {
+    margin-left: 1rem;
+  }
+  .Framer {
+    margin-left: 1rem;
+  }
+  .Figma {
+    margin-left: 1rem;
+  }
+  .Photoshop {
+    margin-left: 1rem;
+  }
+  .jokal-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Jokal {
+    margin-left: 1rem;
+  }
+  .talent {
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+  }
+  .Joiner {
+    margin-left: 0rem;
+  }
+  .pulse {
+    margin-left: 0rem;
+  }
+  .Unbanned {
+    margin-left: 0rem;
+  }
+  .Lotus {
+    margin-left: 0rem;
+  }
+  .ban4-text {
+    position: static;
+    margin-left: 44%;
+  }
+}
