@@ -433,10 +433,12 @@
     margin-top: 1rem;
   }
   .right-arrow {
-    display: none;
+    width: 7rem;
+    height: 7rem;
   }
   .left-arrow {
-    display: none;
+    width: 7rem;
+    height: 7rem;
   }
   .telegram-btn {
     margin-top: 2rem;
@@ -668,10 +670,12 @@
     margin-top: 1rem;
   }
   .right-arrow {
-    display: none;
+    width: 9rem;
+    height: 9rem;
   }
   .left-arrow {
-    display: none;
+    width: 9rem;
+    height: 9rem;
   }
   .telegram-btn {
     margin-top: 2rem;
@@ -681,7 +685,7 @@
   }
 }
 
-@media (min-width: 1025px) and (max-width: 1260px) {
+@media (min-width: 1025px) and (max-width: 1400px) {
   /* * {
     outline: 2px solid red;
   } */
